@@ -11,6 +11,6 @@ document.body.appendChild(simpleDiv);
 // The object must get initialize after appending otherwise it won't work
 let mydiv = document.getElementById("myDiv");
 
-mydiv.innerHTML = "<h1>Sagar</h1>";
+mydiv.innerHTML = "<span>Perform Mouse Events on me and checkout the <strong>Console</strong> for results.</span>";
 // mydiv.innerText = "<h1>Sagar</h1>";
 // mydiv.append("<h1>Sagar</h1>");
